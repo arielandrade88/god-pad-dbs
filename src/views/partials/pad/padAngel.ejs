@@ -1,0 +1,10 @@
+<div class="img-angel-container">
+
+    <% angel.forEach(element=> { %>
+        <a href="/personajes/universo/<%- element.universe %>/<%- element.id %> " class="char-name angel-name">
+            <%= element.name %>
+        </a>
+        <img src="<%= element.imageUrl %>" alt="">
+        <% }) %>
+
+</div>

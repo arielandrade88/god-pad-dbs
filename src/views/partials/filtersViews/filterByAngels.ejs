@@ -1,0 +1,14 @@
+<section class="filter-container">
+    <% characters.forEach(element=> { %>
+        <% if (element.specie === "Angel" && element.role === "Sumo Sacerdote") { %>
+            <div class="angels specie"> 
+                <img src="<%- element.imageUrl %> " alt="">
+            </div>
+            <% } %>
+        <% if (element.role === "Angel" && element.specie === "Angel") { %>
+            <div class="angels"> 
+                <img src="<%- element.imageUrl %> " alt="">
+            </div>
+            <% } %>
+                <% }) %>
+</section>

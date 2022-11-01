@@ -1,0 +1,12 @@
+<section class="filter-container">
+    <% characters.forEach(element=> { %>
+        <% if (element.role === "Kaio-shin") { %>
+            <div class="kaioshin-border"> 
+                <div class="kaioshin-into">
+                    <img src="<%- element.imageUrl %> " alt="">
+                </div>
+                
+            </div>
+            <% } %>
+                <% }) %>
+</section>

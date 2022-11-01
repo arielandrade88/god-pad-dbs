@@ -1,0 +1,1332 @@
+[
+
+  {
+    "id": 1,
+    "name": "Zeno",
+    "specie": "Desconocido",
+    "role": "Rey de todo",
+    "imageUrl": "https://i.ibb.co/qjpJnSF/Zeno-Artwork.webp",
+    "status": "Vivo",
+    "universe": "0",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 2,
+    "name": "Daishinkan",
+    "specie": "Angel",
+    "role": "Sumo Sacerdote",
+    "imageUrl": "https://i.ibb.co/cY94Ddp/Daishinkan.png",
+    "status": "Vivo",
+    "universe": "0",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+
+
+  {
+    "id": 3,
+    "name": "Awamo",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/wBwpLqH/Awamo.webp",
+    "status": "Vivo",
+    "universe": "1",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 4,
+    "name": "Sour",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/DCbTtJm/Sour.webp",
+    "status": "Vivo",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 5,
+    "name": "Camparri",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/PhhnBVr/Campahri.webp",
+    "status": "Vivo",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 6,
+    "name": "Cognic",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/tXMdWKw/Cognac.webp",
+    "status": "Vivo",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 7,
+    "name": "Cucatail",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/wLdyrnb/Cucatail.webp",
+    "status": "Vivo",
+    "universe": "5",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 8,
+    "name": "Vados",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/yywnXtn/U06-buadosu.webp",
+    "status": "Vivo",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 9,
+    "name": "Whis",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/ky7cKjp/Whis-DBS-Broly-Artwork.webp",
+    "status": "Vivo",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 10,
+    "name": "Korn",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/6Ptw175/Korn.webp",
+    "status": "Vivo",
+    "universe": "8",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 11,
+    "name": "Mojito",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/xz59Gqh/Mojito-render.webp",
+    "status": "Vivo",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 12,
+    "name": "Kus",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/cgG5QSD/Kus.webp",
+    "status": "Vivo",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 13,
+    "name": "Marcarita",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/fNKYwL3/Marcarita.webp",
+    "status": "Vivo",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 14,
+    "name": "Martinu",
+    "specie": "Angel",
+    "role": "Angel",
+    "imageUrl": "https://i.ibb.co/XD4rr58/Martinu.webp",
+    "status": "Vivo",
+    "universe": "12",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+
+
+  {
+    "id": 15,
+    "name": "Anat",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/P61L9sF/Anat.png",
+    "status": "Vivo",
+    "universe": "1",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 16,
+    "name": "Pell",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/6skQwWW/Peru-render.webp",
+    "status": "Vivo",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 17,
+    "name": "Ea",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/sb4dQ1q/Ea.webp",
+    "status": "Vivo",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 18,
+    "name": "Kur",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/cXvFvsV/Kuru.webp",
+    "status": "Vivo",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 19,
+    "name": "Ogma",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/YXvcqFQ/Ogma.webp",
+    "status": "Vivo",
+    "universe": "5",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 20,
+    "name": "Huwa",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/310J6hg/Fuwa.webp",
+    "status": "Vivo",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Planeta del Núcleo del Mundo"
+  },
+  {
+    "id": 21,
+    "name": "Shin",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/Jyp7cNB/Shin.webp",
+    "status": "Vivo",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Planeta del Núcleo del Mundo"
+  },
+  {
+    "id": 22,
+    "name": "Ill",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/xLpWXGP/Ill2.webp",
+    "status": "Vivo",
+    "universe": "8",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 23,
+    "name": "Lou",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/hKZxyvg/Rou.webp",
+    "status": "Vivo",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 24,
+    "name": "Gowas",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/Z29Z0qq/Gowas-Artwork.webp",
+    "status": "Vivo",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 25,
+    "name": "Kai",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/QXdbYqm/Kai.webp",
+    "status": "Vivo",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 26,
+    "name": "Ag",
+    "specie": "Desconocido",
+    "role": "Kaio-shin",
+    "imageUrl": "https://i.ibb.co/SckGh8X/Ugg.webp",
+    "status": "Vivo",
+    "universe": "12",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+  {
+    "id": 27,
+    "name": "Iwen",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/MgdVTQc/Iwen.webp",
+    "status": "Vivo",
+    "universe": "1",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 28,
+    "name": "Jerez",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/1MMVnZ9/Heles-artwork.webp",
+    "status": "Vivo",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 29,
+    "name": "Mosco",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/94vTRv3/Mosco2.webp",
+    "status": "Vivo",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 30,
+    "name": "Quitela",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/rZ81dwd/Quitela-render.webp",
+    "status": "Vivo",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 31,
+    "name": "Arak",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/v1VQntF/Arak-Render.webp",
+    "status": "Vivo",
+    "universe": "5",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 32,
+    "name": "Champa",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/yFRRC9D/Champa-1.webp",
+    "status": "Vivo",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 33,
+    "name": "Bills",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/86Vq4XS/Bills.png",
+    "status": "Vivo",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 34,
+    "name": "Liquier",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/FYfRX3M/Liquir.webp",
+    "status": "Vivo",
+    "universe": "8",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 35,
+    "name": "Sidra",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/5Y6cRpM/Sidra.webp",
+    "status": "Vivo",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 36,
+    "name": "Rhumou-shi",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/W3gTn82/Rumoosh-render.webp",
+    "status": "Vivo",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 37,
+    "name": "Vermoud",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/tQtsB4H/Vermoud.webp",
+    "status": "Vivo",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 38,
+    "name": "Geene",
+    "specie": "Desconocido",
+    "role": "Dios destructor",
+    "imageUrl": "https://i.ibb.co/Pwnt7G1/Geen-render.webp",
+    "status": "Vivo",
+    "universe": "12",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+
+{
+    "id": 39,
+    "name": "Brianne",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/3C0QJsb/Brianne-de-Chateau-render.webp",
+    "status": "1",
+    "universe": "2",
+    "transform": "S",
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 40,
+    "name": "Rabanra",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/S7N5YT5/Rabanra-render.webp",
+    "status": "2",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 41,
+    "name": "Sanka-Kuu",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/qNJqKwf/Sanka-Ku-render.webp",
+    "status": "3",
+    "universe": "2",
+    "transform": "S",
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 42,
+    "name": "Su Roas",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/qyFjhqy/Su-Roas-render.webp",
+    "status": "4",
+    "universe": "2",
+    "transform": "S",
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 43,
+    "name": "Bikal",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/cxVbprp/Bikal-render.webp",
+    "status": "5",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+    {
+    "id": 44,
+    "name": "Harmira",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/hW2bCSN/Harmira-render.webp",
+    "status": "6",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 45,
+    "name": "Jimizu",
+    "specie": "Yardatiano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/r7BtS3J/Jimizu-render.webp",
+    "status": "7",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Planeta Yardat"
+  },
+    {
+    "id": 46,
+    "name": "Zirloin",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/C5dSNNn/Zirloin-render.webp",
+    "status": "8",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 47,
+    "name": "Zarbuto",
+    "specie": "Tsufuriano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/5v97JB0/Zarbuto-render.webp",
+    "status": "9",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Planeta Tsufrui"
+  },
+    {
+    "id": 48,
+    "name": "Prum",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/60szhDV/Prum.webp",
+    "status": "10",
+    "universe": "2",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+
+
+  {
+    "id": 49,
+    "name": "Nigrissi",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/qxbYSC0/Nigrissi-Artwork.webp",
+    "status": "1",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 50,
+    "name": "Narirama",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/W6XbgX0/Narirama-render.webp",
+    "status": "2",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 51,
+    "name": "El Preecho",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/VBFw33v/El-Preecho-render.webp",
+    "status": "3",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 52,
+    "name": "Paparoni",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/hCc8YvH/Paparoni-render.webp",
+    "status": "4",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 53,
+    "name": "Catopesra",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/6wdbJjq/Katopesla-render.webp",
+    "status": "5",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 54,
+    "name": "Biarra",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/ZdSTkN0/Biarra-render.webp",
+    "status": "6",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 55,
+    "name": "Maji Kayo",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/7yw7G44/maji-kayo.png",
+    "status": "7",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 56,
+    "name": "Koitsukai",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/n067WwQ/Koitsukai-render.webp",
+    "status": "8",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 57,
+    "name": "Pancea",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/0CkXbt3/Pancea-render.webp",
+    "status": "9",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 58,
+    "name": "Boraleta",
+    "specie": "Ciborg",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/1vNtg3j/Boraleta-render.webp",
+    "status": "10",
+    "universe": "3",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+
+
+  {
+    "id": 59,
+    "name": "Ganos",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/DtJCF18/Ganos-render.webp",
+    "status": "1",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 60,
+    "name": "Damom",
+    "specie": "Cicadidae",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/d5nyG92/Damom-Artwork.webp",
+    "status": "2",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 61,
+    "name": "Gamisalas",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/2ST7SsR/Gamisalas.png",
+    "status": "3",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 62,
+    "name": "Nink",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/d6z22LJ/Nink-render.webp",
+    "status": "4",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 63,
+    "name": "Shousa",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/c2z0srN/Shousa-render.webp",
+    "status": "5",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 64,
+    "name": "Majora",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/6YLTXW8/Majora-render.webp",
+    "status": "6",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 65,
+    "name": "Caway",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/51D8wN5/Caway-render.webp",
+    "status": "7",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 66,
+    "name": "Shantsa",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/9pLNmkF/Shantsa-Artwork.webp",
+    "status": "8",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 67,
+    "name": "Monna",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/MDzdPp6/Monna-Artwork.webp",
+    "status": "9",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 68,
+    "name": "Dercori",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/xMxvh9g/Dercori-render.webp",
+    "status": "10",
+    "universe": "4",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+
+
+  {
+    "id": 69,
+    "name": "Hit",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/kqQxsDZ/Hit-Artwork-Toei.webp",
+    "status": "1",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 70,
+    "name": "Kale",
+    "specie": "Saiyan",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/xgrrp8B/Kale-Artwork.webp",
+    "status": "2",
+    "universe": "6",
+    "transform": "S",
+    "originplanet": "Planeta Sadala"
+  },
+  {
+    "id": 71,
+    "name": "Cabba",
+    "specie": "Saiyan",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/zxkPxPj/U06-cabe.webp",
+    "status": "3",
+    "universe": "6",
+    "transform": "S",
+    "originplanet": "Planeta Sadala"
+  },
+  {
+    "id": 72,
+    "name": "Dr Rota",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/ZWfvDdx/Dr-Rota-render.webp",
+    "status": "4",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 73,
+    "name": "Caulifla",
+    "specie": "Saiyan",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/vhdrq3H/Caulifla-render.webp",
+    "status": "5",
+    "universe": "6",
+    "transform": "S",
+    "originplanet": "Planeta Sadala"
+  },
+  {
+    "id": 74,
+    "name": "Botamo",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/RNxRHs4/U06-botamo.webp",
+    "status": "6",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 75,
+    "name": "Magetta",
+    "specie": "Metaruman",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/x7TndRh/Magetta-u6-TOP.webp",
+    "status": "7",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 76,
+    "name": "Saonel",
+    "specie": "Namekiano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/k2FW7jy/Saonel-Artwork.webp",
+    "status": "8",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 77,
+    "name": "Pilina",
+    "specie": "Namekiano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/g731rJ0/Pilina-Artwork.webp",
+    "status": "9",
+    "universe": "6",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 78,
+    "name": "Frost",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/C6LNX7v/Frost-Final-Artwork.webp",
+    "status": "10",
+    "universe": "6",
+    "transform": "S",
+    "originplanet": "Desconocido"
+  },
+
+ 
+
+  {
+    "id": 79,
+    "name": "Gohan",
+    "specie": "Saiyan mestizo",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/q1rZt1t/Gohan.png",
+    "status": "1",
+    "universe": "7",
+    "transform": "S",
+    "originplanet": "Planeta Tierra"
+  },
+  {
+    "id": 80,
+    "name": "Son Goku",
+    "specie": "Saiyan",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/ckVC52B/Goku.png",
+    "status": "2",
+    "universe": "7",
+    "transform": "S",
+    "originplanet": "Planeta Vegeta"
+  },
+  {
+    "id": 81,
+    "name": "Vegeta",
+    "specie": "Saiyan",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/X4yzCcL/Vegeta.png",
+    "status": "3",
+    "universe": "7",
+    "transform": "S",
+    "originplanet": "Planeta Vegeta"
+  },
+  {
+    "id": 82,
+    "name": "Piccolo",
+    "specie": "Namekiano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/QPsnKcH/piccolo.png",
+    "status": "4",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Namek"
+  },
+  {
+    "id": 83,
+    "name": "Androide 17",
+    "specie": "Androide",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/vPZjH61/Androide-17.webp",
+    "status": "5",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Planeta Tierra"
+  },
+  {
+    "id": 84,
+    "name": "Androide 18",
+    "specie": "Androide",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/t2j04RL/Androide-18.png",
+    "status": "6",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Planeta Tierra"
+  },
+  {
+    "id": 85,
+    "name": "Krilin",
+    "specie": "Humano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/g4KgXMv/Krilin.webp",
+    "status": "7",
+    "universe": "7",
+    "transform": "S",
+    "originplanet": "Planeta Tierra"
+  },
+  {
+    "id": 86,
+    "name": "Tenshinhan",
+    "specie": "Humano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/xzfLJ6d/Tenshinhan-Universo7.webp",
+    "status": "8",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Planeta Tierra"
+  },
+  {
+    "id": 87,
+    "name": "Maestro Roshi",
+    "specie": "Humano",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/BBGMp4x/Muten-Roshi.webp",
+    "status": "9",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Planeta Tierra"
+  },
+  {
+    "id": 88,
+    "name": "Freezer",
+    "specie": "Freeza",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/Z1dKGMd/Freezer.webp",
+    "status": "10",
+    "universe": "7",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  
+
+
+
+  {
+    "id": 89,
+    "name": "Basil",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/8KnRN4Y/Basil.webp",
+    "status": "1",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 90,
+    "name": "Lavenda",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/tmkkhQz/Lavenda.webp",
+    "status": "2",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 91,
+    "name": "Bergamo",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/zrMjhPq/Bergamo.webp",
+    "status": "3",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 92,
+    "name": "Comfrey",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/QD1SBMx/Comfrey-render.webp",
+    "status": "4",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 93,
+    "name": "Sorrel",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/476FSxQ/Sorrel-render.webp",
+    "status": "5",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 94,
+    "name": "Hop",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/2KVbfRg/Hop-render.webp",
+    "status": "6",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 95,
+    "name": "Hyssop",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/S5m8R7b/Hyssop-render.webp",
+    "status": "7",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 96,
+    "name": "Chappil",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/0FRHSX7/Cheppil-render.webp",
+    "status": "8",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 97,
+    "name": "Orégano",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/tJxdCwD/Oregano-render.webp",
+    "status": "9",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 98,
+    "name": "Roselle",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/MDGngHW/Roselle-render.webp",
+    "status": "10",
+    "universe": "9",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+
+
+
+  {
+    "id": 99,
+    "name": "Dium",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/3yfR9pn/Dium-render.webp",
+    "status": "1",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 100,
+    "name": "Dyrasem",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/WHWxV4q/Jirasen-render.webp",
+    "status": "2",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 101,
+    "name": "Ryllibéu",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/94QTW7F/Lilibeu-render.webp",
+    "status": "3",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 102,
+    "name": "Rubalt",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/BrTHDW0/Rubalt-render.webp",
+    "status": "4",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 103,
+    "name": "Methiop",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/cYCG2Zs/Methiop-render.webp",
+    "status": "5",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 104,
+    "name": "Mulithim",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/5R4BsPr/Murichim-render.webp",
+    "status": "6",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 105,
+    "name": "Murisarm",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/T1GqZx8/Murisarm-render.webp",
+    "status": "7",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 106,
+    "name": "Napapa",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/pfs4Ynn/Napapa-render.webp",
+    "status": "8",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 107,
+    "name": "Obni",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/5WK7Q9W/Obuni-render.webp",
+    "status": "9",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 108,
+    "name": "Zircol",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/3FcMCnr/Zircol-render.webp",
+    "status": "10",
+    "universe": "10",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  
+
+
+{
+    "id": 109,
+    "name": "Jiren",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/Qjbz7Hv/Jiren-render.webp",
+    "status": "1",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 110,
+    "name": "Toppo",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/dgXVvJD/Toppo.webp",
+    "status": "2",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 111,
+    "name": "Dyspo",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/LQ7nMPh/Dispo-render.webp",
+    "status": "3",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 112,
+    "name": "Carsserale",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/bKCj7c1/Soldado-del-Orgullo-Casseral.webp",
+    "status": "4",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 113,
+    "name": "Cocotte",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/tL3G1Bx/Cocotte-render.webp",
+    "status": "5",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 114,
+    "name": "Vuon",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/qBRtyKJ/Vuon-render.webp",
+    "status": "6",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 115,
+    "name": "Kettle",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/H4nzh7p/Kettle-render.webp",
+    "status": "7",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 116,
+    "name": "Tupper",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/NswkKNM/Tupper-render.webp",
+    "status": "8",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 117,
+    "name": "Zoirei",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/w6ZSYZp/Zoirei-render.webp",
+    "status": "9",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  },
+  {
+    "id": 118,
+    "name": "Knsie",
+    "specie": "Desconocido",
+    "role": "Guerrero",
+    "imageUrl": "https://i.ibb.co/5LNNRLS/Kunsi-render.webp",
+    "status": "10",
+    "universe": "11",
+    "transform": null,
+    "originplanet": "Desconocido"
+  }
+]

@@ -1,0 +1,14 @@
+.off {
+  /*    background-color: rgba(0, 0, 2, 0.9); */
+  filter: grayscale(100%);
+}
+.count-off {
+     background-color: rgba(129, 129, 129, 0.9);
+  
+}
+.click-off {
+  pointer-events: none;
+}
+.modal-show{
+  display: flex;
+}

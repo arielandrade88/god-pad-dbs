@@ -1,0 +1,12 @@
+<section class="section-figthers filter-container">
+    <% characters.forEach(element=> { %>
+        <% if (element.role === "Guerrero") { %>
+            <div class="figther-border"> 
+                <div class="figther-into">
+                    <img src="<%- element.imageUrl %> " alt="">
+                </div>
+                
+            </div>
+            <% } %>
+                <% }) %>
+</section>

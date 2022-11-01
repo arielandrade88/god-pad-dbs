@@ -1,0 +1,18 @@
+.universes-container {
+  background: rgba(0,0,0,0.5);
+  width: 154px;
+  height: 154px;
+  top: 63px;
+  left: 174px;
+  position: absolute;
+}
+
+.univ-img-container {
+  text-align: center;
+  width: 26px;
+  height: 26px;
+}
+.univ-img-container img {
+  width: 25px;
+  margin: auto;
+}

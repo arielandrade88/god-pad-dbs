@@ -1,0 +1,419 @@
+[
+    {
+        "id": 1,
+        "name": "Zeno",
+        "specie": "Desconocido",
+        "role": "Rey de todo",
+        "imageUrl": "https://i.ibb.co/qjpJnSF/Zeno-Artwork.webp",
+        "status": "Vivo",
+        "universe": "0",
+        "transform": null,
+        "originplanet": "Desconocido"
+      },
+      {
+        "id": 2,
+        "name": "Daishinkan",
+        "specie": "Angel",
+        "role": "Sumo Sacerdote",
+        "imageUrl": "https://i.ibb.co/cY94Ddp/Daishinkan.png",
+        "status": "Vivo",
+        "universe": "0",
+        "transform": null,
+        "originplanet": "Desconocido"
+      },
+        {
+          "id": 3,
+          "name": "Awamo",
+          "specie": "Angel",
+          "role": "Angel",
+          "imageUrl": "https://i.ibb.co/wBwpLqH/Awamo.webp",
+          "status": "Vivo",
+          "universe": "1",
+          "transform": null,
+          "originplanet": "Desconocido"
+        },
+        {
+          "id": 4,
+          "name": "Sour", 
+          "specie": "Angel",
+          "role": "Angel",
+          "imageUrl": "https://i.ibb.co/DCbTtJm/Sour.webp",
+          "status": "Vivo",
+          "universe": "2",
+          "transform": null,
+          "originplanet": "Desconocido"
+        },
+        {
+          "id": 5,
+          "name": "Camparri",
+          "specie": "Angel",
+          "role": "Angel",
+          "imageUrl": "https://i.ibb.co/PhhnBVr/Campahri.webp",
+          "status": "Vivo",
+          "universe": "3",
+          "transform": null,
+          "originplanet": "Desconocido"
+        },
+        {
+          "id": 6,
+          "name": "Cognic",
+          "specie": "Angel",
+          "role": "Angel",
+          "imageUrl": "https://i.ibb.co/tXMdWKw/Cognac.webp",
+          "status": "Vivo",
+          "universe": "4",
+          "transform": null,
+          "originplanet": "Desconocido"
+        },
+        {
+            "id": 7,
+            "name": "Cucatail",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/wLdyrnb/Cucatail.webp",
+            "status": "Vivo",
+            "universe": "5",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 48,
+            "name": "Vados",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/yywnXtn/U06-buadosu.webp",
+            "status": "Vivo",
+            "universe": "6",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 126,
+            "name": "Whis",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/ky7cKjp/Whis-DBS-Broly-Artwork.webp",
+            "status": "Vivo",
+            "universe": "7",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 62,
+            "name": "Korn",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/6Ptw175/Korn.webp",
+            "status": "Vivo",
+            "universe": "8",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 65,
+            "name": "Mojito",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/xz59Gqh/Mojito-render.webp",
+            "status": "Vivo",
+            "universe": "9",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 79,
+            "name": "Kus",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/cgG5QSD/Kus.webp",
+            "status": "Vivo",
+            "universe": "10",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 95,
+            "name": "Marcarita",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/fNKYwL3/Marcarita.webp",
+            "status": "Vivo",
+            "universe": "11",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 107,
+            "name": "Martinu",
+            "specie": "Angel",
+            "role": "Angel",
+            "imageUrl": "https://i.ibb.co/XD4rr58/Martinu.webp",
+            "status": "Vivo",
+            "universe": "12",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          
+
+
+
+
+          {
+            "id": 16,
+            "name": "Anat",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/P61L9sF/Anat.png",
+            "status": "Vivo",
+            "universe": "1",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 5,
+            "name": "Pell",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/6skQwWW/Peru-render.webp",
+            "status": "Vivo",
+            "universe": "2",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 3,
+            "name": "Ea",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/sb4dQ1q/Ea.webp",
+            "status": "Vivo",
+            "universe": "3",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+        {
+            "id": 27,
+            "name": "Kur",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/cXvFvsV/Kuru.webp",
+            "status": "Vivo",
+            "universe": "4",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 37,
+            "name": "Ogma",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/YXvcqFQ/Ogma.webp",
+            "status": "Vivo",
+            "universe": "5",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 47,
+            "name": "Huwa",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/310J6hg/Fuwa.webp",
+            "status": "Vivo",
+            "universe": "6",
+            "transform": null,
+            "originplanet": "Planeta del Núcleo del Mundo"
+          },
+          
+          {
+            "id": 61,
+            "name": "Ill",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/xLpWXGP/Ill2.webp",
+            "status": "Vivo",
+            "universe": "8",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 64,
+            "name": "Lou",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/hKZxyvg/Rou.webp",
+            "status": "Vivo",
+            "universe": "9",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 77,
+            "name": "Gowas",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/Z29Z0qq/Gowas-Artwork.webp",
+            "status": "Vivo",
+            "universe": "10",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 93,
+            "name": "Kai",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/QXdbYqm/Kai.webp",
+            "status": "Vivo",
+            "universe": "11",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 106,
+            "name": "Ag",
+            "specie": "Desconocido",
+            "role": "Kaio-shin",
+            "imageUrl": "https://i.ibb.co/SckGh8X/Ugg.webp",
+            "status": "Vivo",
+            "universe": "12",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+
+
+
+          {
+            "id": 7,
+            "name": "Jerez",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/1MMVnZ9/Heles-artwork.webp",
+            "status": "Vivo",
+            "universe": "2",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 9,
+            "name": "Mosco",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/94vTRv3/Mosco2.webp",
+            "status": "Vivo",
+            "universe": "3",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 4,
+            "name": "Iwen",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/MgdVTQc/Iwen.webp",
+            "status": "Vivo",
+            "universe": "1",
+            "transform": null,
+            "originplanet": "Desconocido"
+            },
+          {
+            "id": 29,
+            "name": "Quitela",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/rZ81dwd/Quitela-render.webp",
+            "status": "Vivo",
+            "universe": "4",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 39,
+            "name": "Arak",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/v1VQntF/Arak-Render.webp",
+            "status": "Vivo",
+            "universe": "5",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 49,
+            "name": "Champa",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/yFRRC9D/Champa-1.webp",
+            "status": "Vivo",
+            "universe": "6",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 127,
+            "name": "Bills",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/86Vq4XS/Bills.png",
+            "status": "Vivo",
+            "universe": "7",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 63,
+            "name": "Liquier",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/FYfRX3M/Liquir.webp",
+            "status": "Vivo",
+            "universe": "8",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 66,
+            "name": "Sidra",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/5Y6cRpM/Sidra.webp",
+            "status": "Vivo",
+            "universe": "9",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 80,
+            "name": "Rhumou-shi",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/W3gTn82/Rumoosh-render.webp",
+            "status": "Vivo",
+            "universe": "10",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 94,
+            "name": "Vermoud",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/tQtsB4H/Vermoud.webp",
+            "status": "Vivo",
+            "universe": "11",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+          {
+            "id": 108,
+            "name": "Geene",
+            "specie": "Desconocido",
+            "role": "Dios de la destruccion",
+            "imageUrl": "https://i.ibb.co/Pwnt7G1/Geen-render.webp",
+            "status": "Vivo",
+            "universe": "12",
+            "transform": null,
+            "originplanet": "Desconocido"
+          },
+        {}
+]

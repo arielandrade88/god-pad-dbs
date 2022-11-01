@@ -1,0 +1,16 @@
+.header {
+    height: fit-content;
+    background-color: coral;
+    max-width: 1400px;
+    margin: auto;
+    width: 100%;
+    position: relative;
+}
+
+@media(min-width:700px) {
+
+    /* .header {
+        height: 130px;
+       
+    } */
+  }

@@ -1,0 +1,23 @@
+<div class="characters-container">
+    <div class="exagonArea ">
+
+        <%charactersWars.forEach(element=> {%>
+
+            <div class="char-content">
+                <a href="/personajes/universo/<%- element.universe %>/<%- element.id %> " class="char-name">
+                    <%- element.name %>
+                </a>
+                <div class="hexagon">
+                    <div class="hexagon hexagon-int">
+                        <img src="<%= element.imageUrl %>" alt="image" id="char-image" >
+                        <button class="capa" id="<%- element.id %>" style=" width: 100%; height: 100%; z-index: 10; background-color: transparent;" >
+                        
+                        </button>
+
+                    </div>
+                </div>
+            </div>
+            <% }); %>
+
+    </div>
+</div>

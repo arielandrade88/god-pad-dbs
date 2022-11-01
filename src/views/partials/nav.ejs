@@ -1,0 +1,65 @@
+<header class="header">
+    <div class="header__container">
+
+        <nav>
+            <div class="nav-container">
+                <!-- logo -->
+                <div class="logo-container">
+                  
+                    <a href="/"><img class="logo" src="/images/img-logo.png" alt=""></a>
+                </div>
+
+                <!-- MENU HAMBURGUESA -->
+                <span class="burguer-menu" id="btnMenu"><i class="fas fa-bars"></i></span>
+
+
+                <!-- MENU DESPLEGABLE MOBILE -->
+                <div class="menu-container" id="menu">
+                    <ul class="menu">
+
+                        <li class="menu__item container-submenu">
+                            <a href="#" class="menu__link submenu-btn" id="submenu-roles">
+                                roles 
+                            </a>
+                            <ul class="submenu" id="submenu-roles">
+                                <!-- forEach -->
+                                <% navOptionsRole.forEach(element=> { %>
+                                    <li class="menu__item"><a class="menu__link" href="/personajes/rol/<%- element %>">
+                                            <%- element %>
+                                        </a></li>
+                                    <% }) %>
+                              
+                                <li class="menu__item">
+                                    <a href="/personajes/todos" class="menu__link">ver todos</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="menu__item container-submenu">
+                            <a href="#" class="menu__link submenu-btn" id="especies">
+                                especies
+                            </a>
+                            <ul class="submenu" id="submenu-especies">
+                                <!-- forEach -->
+                                <% navOptionsSpecie .forEach(element=> { %>
+                                    <li class="menu__item">
+                                        <a class="menu__link" href="/personajes/especie/<%- element %>">
+                                            <%- element %>
+                                        </a>
+                                    </li>
+                                    <% }) %>
+                            
+
+                                <li class="menu__item">
+                                    <a href="/personajes/todos" class="menu__link">ver todos</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+        </nav>
+
+    </div>
+
+</header>

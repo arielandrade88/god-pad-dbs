@@ -1,0 +1,180 @@
+/* pad css */
+
+.pad-container {
+  background-color: #a0e4d9;
+  background-image: url(/images/backgrounds/bg-godPad.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 450px;
+  height: 320px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  position: relative;
+  top: 1rem;
+  border-radius: 1rem;
+  outline: #ff6900 5px solid;
+}
+
+/* LOGO UNIVERSE */
+
+.img-logo-universe {
+  width: 110px;
+  height: 110px;
+  background: #aa4442;
+  border-radius: 50%;
+  top: 25px;
+  left: 25px;
+  position: absolute;
+  border: #f46660 7.5px solid;
+}
+
+.img-logo-universe img {
+  height: 100%;
+  width: 100%;
+}
+
+/* PAD TITLE */
+
+.pad-title {
+  font-size: 2.5rem;
+}
+
+.pad-title-border {
+  width: 250px;
+  height: 30px;
+  text-align: center;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 170px;
+  top: 23px;
+  color: #f46660;
+}
+
+  /* CONTADOR DE LUCHADORES */
+  
+  .triangulo {
+/*     background: rgba(0,0,0,0.5); */
+    width: 115px;
+    height: 101px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 47px;
+    left: 28px;
+    clip-path: polygon(40% 0%, 60% 0, 100% 80%, 90% 100%, 10% 100%, 0 80%);
+}
+  
+  .base {
+    display: flex;
+  }
+  
+  .circle {
+    border-radius: 100%;
+    background-color: #f46660;
+    width: 11px;
+    height: 10px;
+    margin: 4px 5px;
+    border: black 1px solid;
+}
+  
+  /* LUCHADORES */
+  
+  .characters-container {
+    position: absolute;
+    width: 328px;
+    height: 218px;
+    clip-path: polygon(20% 2%, 81% 2%, 100% 50%, 81% 99%, 20% 99%, 0% 50%);
+    display: flex;
+    justify-content: space-evenly;
+    background: #4acfcc;
+    flex-direction: column;
+    align-items: stretch;
+    bottom: 33px;
+    right: 20px;
+}
+
+  .exagonArea {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .char-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3px;
+  }
+  
+  .char-content:first-child{
+    margin-left: 10px;
+  }
+  
+  .char-content:nth-child(8){
+    margin-left: 10px;
+  }
+  .char-content:nth-child(3){
+    margin-right: 10px;
+  }
+  .char-content:nth-child(10){
+    margin-right: 10px;
+  }
+  
+  .char-content .char-name {
+    background: #a8d0d2;
+    width: 50px;
+    font-weight: 700;
+    font-size: 7px;
+    border-radius: 2px;
+    outline: #f46660 2px solid;
+    color: #f46660;
+    margin-bottom: 0px;
+}
+  
+  .hexagon {
+  
+    margin: 5px auto;
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0 50%);
+    background-color: #f46660;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  
+  .characters-container .hexagon {
+    width: 50px;
+    height: 45px;
+    margin: 1px 12px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+  
+  .hexagon-int {
+    background-color: #a8d0d2;
+    clip-path: polygon(28% 8%, 72% 8%, 93% 50%, 72% 93%, 28% 93%, 8% 50%);
+    /* margin: 5px; */
+    position: absolute;
+  }
+  
+  .exagonArea .hexagon-int {
+    background-color: #a8d0d2;
+    clip-path: polygon(28% 8%, 72% 8%, 93% 50%, 72% 93%, 28% 93%, 8% 50%);
+    /* margin: 5px; */
+    position: absolute;
+  }
+  
+  .exagonArea .hexagon img {
+    position: absolute;
+    height: inherit;
+    top: 5px;
+  }

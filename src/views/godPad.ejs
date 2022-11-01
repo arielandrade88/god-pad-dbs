@@ -1,0 +1,36 @@
+<%- include('./partials/head.ejs') %>
+
+    <body>
+        <header>
+            <%- include('./partials/nav.ejs') %>
+        </header>
+        <main class="main-characteres">
+            <div class="pad-container">
+                <div id="delete-char">
+                   
+                </div>
+                <div id="delete-universe"></div>
+               <%- include('./partials/pad/logoUniverse.ejs') %>
+
+                     <%- include('./partials/pad/padTitle.ejs') %>
+
+                        
+
+
+                                <%- include('./partials/pad/counter.ejs') %>
+
+                                    <%- include('./partials/pad/charContent.ejs') %> 
+
+                                       
+
+
+            </div>
+
+            <%- include('./partials/pad/padGods') %> 
+        </main>
+        <script src="/js/nav.js"></script>
+        <script src="/js/godPad.js"></script>
+        <script src="/js/modal.js"></script>
+    </body>
+
+    </html>

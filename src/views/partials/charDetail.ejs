@@ -1,0 +1,47 @@
+<%- include('./head.ejs') %>
+    <section class="char-detail">
+        <div class="char-detail-container">
+            <a href="/personajes/universo/<%- id %> " class="modal-btn">
+
+                <img src="/images/backgrounds/bg-btn-close-modal.png" alt="">
+
+            </a>
+
+            <h2 class="char-detail-title">
+                <img src="" alt="">
+                universo <%= personaje.universe %>
+                    <img src="" alt="">
+            </h2>
+            <figure class="char-detail-image-container">
+                <img src=" <%= personaje.imageUrl %>" alt="">
+            </figure>
+
+            <article class="char-detail-info">
+                <h2 class="char-detail-info-title">
+                    <%= personaje.name %>
+                </h2>
+
+                <div class="info">
+                    <p>
+                        <span>
+                            planeta:
+                        </span>
+                        <%= personaje.originplanet %>
+                    </p>
+                    <p>
+                        <span>
+                            especie:
+                        </span>
+                        <%= personaje.specie %>
+                    </p>
+                    <p>
+                        <span>
+                             rol:
+                        </span>
+                        <%= personaje.role %>
+                    </p>
+                </div>
+
+            </article>
+        </div>
+    </section>

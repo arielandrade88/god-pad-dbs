@@ -1,0 +1,65 @@
+<div class="modal">
+    <div class="modal-container">
+        <a class="modal-btn">
+
+            <img src="/images/backgrounds/bg-btn-close-modal.png" alt="">
+
+        </a>
+
+        <% angel.forEach(element=> { %>
+            <div class="angel">
+                <div class="angel-border">
+                    <h6 class="char-role">
+                        <%= element.role %>
+                    </h6>
+                    <hr>
+                    <a href="/personajes/universo/<%- element.universe %>/<%- element.id %> " class="char-name">
+                        <%= element.name %>
+                    </a>
+                    <div class="angel-into">
+                        <img src="<%= element.imageUrl %>" alt="image">
+                    </div>
+
+                </div>
+                <% }) %>
+            </div>
+            <div class="gods-triangulo destructor">
+                <% god.forEach(element=> {%>
+                    <div class="destructorGod-border">
+
+                        <div class="destructorGod-into">
+                            <img src="<%= element.imageUrl %>" alt="image">
+                        </div>
+                        <h6 class="char-role">
+                            <%= element.role %>
+                        </h6>
+                        <hr>
+                        <a href="/personajes/universo/<%- element.universe %>/<%- element.id %> " class="char-name">
+                            <%= element.name %>
+                        </a>
+                    </div>
+                    <% }); %>
+
+            </div>
+
+            <div class="gods-triangulo kaio">
+                <% kaio.forEach(element=> {%>
+                    <div class="kaioshin-border">
+                        <h6 class="char-role">
+                            <%= element.role %>
+                        </h6>
+                        <hr>
+                        <a href="/personajes/universo/<%- element.universe %>/<%- element.id %> " class="char-name">
+                            <%= element.name %>
+                        </a>
+                        <div class="kaioshin-into">
+                            <img src="<%= element.imageUrl %>" alt="image">
+
+                        </div>
+                    </div>
+                    <% }); %>
+
+            </div>
+    </div>
+
+</div>
